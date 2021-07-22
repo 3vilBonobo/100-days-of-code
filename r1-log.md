@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Irinella Boutsika]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [July 22, Thursday, 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+I created the basic HTML structure and added some CSS of a tip-calculator app that I'm making as part of the Frontend Mentor Challenges.
 
 ### R1D2
