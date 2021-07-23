@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 22, 2021
+### Day 1: July 22, 2021
 
 ##### (delete me or comment me out)
 
@@ -10,7 +10,7 @@
 
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
 
-### Day 1: July 23, 2021
+### Day 2: July 23, 2021
 
 ##### (delete me or comment me out)
 
