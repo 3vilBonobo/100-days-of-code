@@ -11,3 +11,7 @@ I created the basic HTML structure and added some CSS of a tip-calculator app th
 ### R1D2
 
 I added some extra CSS for my tip calculator, trying to align items correctly
+
+### R1D3
+
+I fixed the input fields.
