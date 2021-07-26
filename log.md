@@ -30,7 +30,7 @@
 
 **Thoughts:** I really need to check various learning sources in order to grasp Destructurinng Objects/Arrays
 
-Day 5: July 26, 2021
+###Day 5: July 26, 2021
 
 **Today's Progress: Done with the CSS part of the Tip Calculator app! Now planning how to achieve the required functionallity using JavaScript.
 
