@@ -16,10 +16,17 @@
 
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
 
-### Day 2: July 23, 2021
+### Day 3: July 24, 2021
 
 **Today's Progress**: I fixed the input fields. I did some research on how to add SVG icons in the input field.
 
 **Thoughts:** Next to be fixed: Add the SVG icons in the input field and position them correctly and put limits in number input fields.
 
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
+
+  ### Day 4: July 24, 2021
+
+**Today's Progress**: I finished some parts of the JavaScript curriculum of freeCodeCamp
+
+**Thoughts:** I really need to check various learning sources in order to grasp Destructurinng Objects/Arrays
+
