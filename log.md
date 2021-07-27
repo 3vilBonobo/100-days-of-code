@@ -24,16 +24,24 @@
 
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
 
-  ### Day 4: July 25, 2021
+### Day 4: July 25, 2021
 
 **Today's Progress**: I finished some parts of the JavaScript curriculum of freeCodeCamp
 
 **Thoughts:** I really need to check various learning sources in order to grasp Destructurinng Objects/Arrays
 
-###Day 5: July 26, 2021
+### Day 5: July 26, 2021
 
-**Today's Progress: Done with the CSS part of the Tip Calculator app! Now planning how to achieve the required functionallity using JavaScript.
+**Today's Progress**: Done with the CSS part of the Tip Calculator app! Now planning how to achieve the required functionallity using JavaScript.
 
-**Thoughts: Thinking if its better to divide Javascript to appearence related functionality and calculation/logic functionality, for better code redability.
-  
+**Thoughts:** Thinking if its better to divide Javascript to appearence related functionality and calculation/logic functionality, for better code redability.
+
+**Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
+
+### Day 6: July 27, 2021
+
+**Today's Progress**: Changed my mind after studying some tutorials and started re-designing the structure of the app. I replaced also CSS with SCSS.
+
+**Thoughts:** The app styling has modules now. Half-way there. I need to improve the structure so I can easier control the functionality with JavaScript.
+
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
