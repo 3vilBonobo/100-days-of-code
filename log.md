@@ -45,3 +45,27 @@
 **Thoughts:** The app styling has modules now. Half-way there. I need to improve the structure so I can easier control the functionality with JavaScript.
 
 **Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
+
+### Day 7: July 28, 2021
+
+**Today's Progress**: Made some CSS additions and revisited some JavaScript theory.
+
+**Thoughts:** Check array methods
+
+**Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
+
+### Day 8: July 29, 2021
+
+**Today's Progress**: Progressed in the freeCodeCamp JavaScript Curriculum
+
+**Thoughts:** Revisit ES6 JS theory
+
+**Link to work:**
+
+### Day 9: July 30, 2021
+
+**Today's Progress**: Added media queries for the Tip Calculator app
+
+**Thoughts:** I need to move to Js soon
+
+**Link to work:** [Tip Calculator App](https://github.com/3vilBonobo/tipp_calculator_app.git)
